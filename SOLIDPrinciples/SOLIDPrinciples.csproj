@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DependencyInversion.cs" />
     <Compile Include="InterfaceSegregation.cs" />
     <Compile Include="OpenForExtentionCloseForModification.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
