@@ -24,7 +24,7 @@
 //        void Add(); // old client are happy with these.
 //        //void Read(); // requirement from new clients.
 //    }
-//    interface IDatabaseV1 : IDatabase 
+//    interface IDatabaseV1 : IDatabase
 //    {
 //        void Read();// Added for new clients.
 //    }
