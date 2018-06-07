@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="InterfaceSegregation.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SingleResponsibility.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
